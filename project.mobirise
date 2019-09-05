@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DOCVAPE",
-    "currentPage": "wires.html",
+    "currentPage": "leave.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -91,7 +91,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Main",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -516,7 +516,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Vape Kits",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -941,7 +941,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Mods",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1366,7 +1366,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Atomizer",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1791,7 +1791,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "E - Juice",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2216,7 +2216,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Battery &amp; Chargers",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2641,7 +2641,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Accessories",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3066,7 +3066,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Wires",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3486,6 +3486,14 @@
           "_anchor": "menu1-i"
         }
       ]
+    },
+    "leave.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Leave",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
